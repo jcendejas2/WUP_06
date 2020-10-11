@@ -41,7 +41,7 @@ barchartGC(~BIGBANG + POSTLIFE,data=GSS, type="percent")
 
 ``` 
 
-The bar chart shows that the belief of the big bang theory is indepedent of belief in an afterlife.
+The bar chart shows that belief in the bigbang theory is independent of belief in an afterlife.  
 
 ### Numerical Descriptive Results
 
@@ -66,3 +66,5 @@ fisher.test(table1)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The p-value from the inferential tests was 0.08 which is greater than 0.05 therefore we fail to reject the null hypothesis. We don't have enough evidence that belief in the postlife and belief in the big bang theory are related in anyway. 
